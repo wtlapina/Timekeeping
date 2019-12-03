@@ -1,4 +1,4 @@
 # Timekeeping
 
->npm install -g create-react-app
->npx create-react-app client-app --use-npm --typescript
+1. npm install -g create-react-app
+2. npx create-react-app client-app --use-npm --typescript
